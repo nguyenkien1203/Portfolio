@@ -13,10 +13,10 @@ export function Contact() {
       <div className="max-w-7xl mx-auto relative z-10">
         <div className="text-center mb-16">
           <h2 className="text-5xl lg:text-6xl font-bold mb-6 text-balance">
-            Let's Work <span className="text-primary neon-text">Together</span>
+            Let&apos;s Work <span className="text-primary neon-text">Together</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Have a project in mind? I'm always interested in new opportunities and exciting collaborations. Let's create
+            Have a project in mind? I&apos;m always interested in new opportunities and exciting collaborations. Let&apos;s create
             something amazing together!
           </p>
         </div>

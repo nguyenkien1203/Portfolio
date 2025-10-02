@@ -13,7 +13,7 @@ export function About() {
             About <span className="text-primary neon-text">Me</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            I'm a full-stack developer passionate about building scalable applications with clean architecture and
+            I&apos;m a full-stack developer passionate about building scalable applications with clean architecture and
             robust engineering. I enjoy working in teams and solving problems.
           </p>
         </div>
@@ -59,18 +59,18 @@ export function About() {
             <h3 className="text-2xl font-bold text-primary">My Journey</h3>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                I'm currently a final-year{" "}
+                I&apos;m currently a final-year{" "}
                 <span className="text-primary font-semibold">Software Engineering student at RMIT University</span>, seeking
-                opportunities to apply my skills to real-world projects. I'm eager to contribute to an innovative capstone
+                opportunities to apply my skills to real-world projects. I&apos;m eager to contribute to an innovative capstone
                 project and deliver high-quality software solutions.
               </p>
               <p>
-                Throughout my studies, I've worked on various projects involving full-stack development, building web
-                applications with modern technologies like React, Spring Boot, and databases. I'm excited to bring my
+                Throughout my studies, I&apos;ve worked on various projects involving full-stack development, building web
+                applications with modern technologies like React, Spring Boot, and databases. I&apos;m excited to bring my
                 technical skills and collaborative mindset to a professional team environment.
               </p>
               <p>
-                When I'm not coding, I'm usually climbing, reading, hanging out with my family, or exploring new coffee
+                When I&apos;m not coding, I&apos;m usually climbing, reading, hanging out with my family, or exploring new coffee
                 shops around the city searching for the perfect espresso.
               </p>
             </div>

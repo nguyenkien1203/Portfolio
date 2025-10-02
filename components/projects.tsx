@@ -34,7 +34,7 @@ export function Projects() {
           <h2 className="text-5xl lg:text-6xl font-bold mb-6 text-balance">
             Selected <span className="text-primary neon-text">Work</span>
           </h2>
-          <p className="text-xl text-muted-foreground">Projects I'm proud of</p>
+          <p className="text-xl text-muted-foreground">Projects I&apos;m proud of</p>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-8">

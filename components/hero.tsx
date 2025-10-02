@@ -25,7 +25,7 @@ export function Hero() {
                 <span className="text-primary neon-text">Developer</span>
               </h1>
               <p className="text-xl text-muted-foreground leading-relaxed max-w-xl">
-                I'm Vo Nguyen Kien, a motivated final-year Software Engineering student with experience in building scalable
+                I&apos;m Vo Nguyen Kien, a motivated final-year Software Engineering student with experience in building scalable
                 applications using React, Node.js, PostgreSQL, and MongoDB.
               </p>
             </div>
