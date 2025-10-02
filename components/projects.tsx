@@ -6,7 +6,7 @@ const projects = [
     title: "Hoversprite - Organic Sprayer Management System",
     description:
       "A web application for booking sprayer services that includes mapping features, allowing users to visualize and select specific farmland areas, enhancing the booking process and service allocation. Developed with Java Spring Boot for authentication, bookings, and administration management.",
-    image: "/hoversprite-project.png",
+    image: "/Screenshot 2025-10-02 at 7.06.17 PM.png",
     technologies: ["HTML", "Bootstrap", "JavaScript", "Java Spring Boot"],
     liveUrl: "#",
     githubUrl: "https://github.com",
